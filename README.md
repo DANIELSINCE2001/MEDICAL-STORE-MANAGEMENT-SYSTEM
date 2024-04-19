@@ -1,5 +1,5 @@
 # Medical Store Management System
-### Developed by, Abhishek Sharma, 2021
+### Developed by, Daniel J Sadananda, 2022
 In this project I have deployed a Medical Store Management System as a Web App using PHP and MySQL
 
 ### Softwares Used in this Project :
@@ -26,5 +26,5 @@ This medical store management system will provide us the gievn informations,
 - Now in another tab go to the url : `localhost/Pharmacy-Management-System-master/PHARMACY/mainpage.php`
 - while runnig the above url the program will start and the database will be running in the XAMPP server as you can see the differences in the database live!
 
-### Code Developed by, Daniel J Sadananda , @danieljs, 2021
+### Code Developed by, Daniel J Sadananda , @danieljs, 2022
 # MEDICAL-STORE-MANAGEMENT-SYSTEM
